@@ -80,7 +80,7 @@ p {
 }
 
 #mainNav .navbar-brand {
-  color: #e6a756;
+  color: #f8f9fa;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -89,7 +89,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #e6a756;
+  color: #f8f9fa;
 }
 
 @media (min-width: 992px) {
@@ -229,7 +229,7 @@ p {
 }
 
 .text-primary {
-  color: #e6a756 !important;
+  color: #f8f9fa !important;
 }
 
 .bg-primary {
@@ -241,8 +241,8 @@ p {
 }
 
 .btn-primary {
-  background-color: #e6a756;
-  border-color: #e6a756;
+  background-color: #7413dc;
+  border-color: #000000;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
