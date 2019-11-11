@@ -36,7 +36,7 @@ text-decoration: underline;
 .image {
   display: block;
   width: 200px;
-  height: 375px;
+  height: 350px;
   border-width: 5px; 
 border-color: #7413dc; 
 border-style: solid; 
@@ -44,7 +44,7 @@ border-style: solid;
 
 .word {
   display: block;
-  width: 250px;
+  width: 200px;
   text-align: center;
   font-family: Raleway;
 font-weight: 300;
