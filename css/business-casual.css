@@ -83,7 +83,7 @@ p {
 
 #mainNav {
   background-color: rgba(116, 19, 220, 1);
-  font-family: 'Raleway';
+  font-family: nunito-sans, sans-serif;
 }
 
 #mainNav .navbar-brand {
