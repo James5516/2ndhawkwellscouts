@@ -31,7 +31,7 @@ p {
 
 .site-heading {
   margin-top: 5rem;
-  margin-bottom: 5rem;
+  margin-bottom: 3rem;
   text-transform: uppercase;
   line-height: 1;
 }
@@ -210,7 +210,7 @@ p {
 
 .list-hours .list-hours-item {
   border-bottom: 1px solid rgba(230, 167, 86, 0.5);
-  padding-bottom: .25rem;
+  padding-bottom: 1.5rem;
   margin-bottom: 1rem;
   font-style: italic;
 }
@@ -259,4 +259,19 @@ p {
 
 .font-weight-light {
   font-weight: 100 !important;
+}
+
+.btn-xlc {
+    font-weight: 700;
+    font-size: 1,2rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+	margin-top: 30px;
+}
+
+.mb-5, .my-5 {
+    margin-bottom: 2rem!important;
+	margin-top: 2rem;
 }
