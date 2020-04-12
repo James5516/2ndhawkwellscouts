@@ -48,12 +48,17 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://2ndhawkwellscoutgroup.co.uk/pictures.html</loc>
+  <loc>https://2ndhawkwellscoutgroup.co.uk/gallery.html</loc>
   <lastmod>2019-11-11T11:10:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://2ndhawkwellscoutgroup.co.uk/contact.html</loc>
+  <lastmod>2019-11-11T11:10:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://2ndhawkwellscoutgroup.co.uk/challenges.html</loc>
   <lastmod>2019-11-11T11:10:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
